@@ -1,0 +1,17 @@
+body {
+    min-height: 2000px;
+}
+
+.navbar {
+    position: relative;
+}
+
+.jumbotron {
+    padding-top: 1rem;
+    background-color: #e2edff;
+}
+
+.about {
+    background-color: #f3f4f5;
+}
+
